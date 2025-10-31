@@ -4,3 +4,12 @@ Test set and prompts for the SOICT 2025 paper *"Segmentation-Free Handwriting Re
 and Anna Scius-Bertrand. 
 
 
+## Structure
+
+```
+/25_12_soict-supplement.pdf     Outlining the prompts and prompting strategies used in the main paper
+/testset
+  | *.tsv|.txt                  Ground-truth annotation files, CM1 labels used in the original experiments
+  | /cm1_img                    CM1 original images used in the testing set
+
+```
